@@ -76,14 +76,6 @@ git clone https://github.com/Valerylu97/Machine_Learning.git
 
 ---
 
-## 🖼️ **Vista previa**
-
-Puedes añadir imágenes como un screenshot de tus gráficas:
-
-
-
----
-
 ## 📬 **Contacto**
 
 Siéntete libre de contactarme:
